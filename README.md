@@ -1,16 +1,2 @@
-# sql_lite
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tampilan Dari SQLite Saya
+![WhatsApp Image 2025-02-13 at 19 41 17_1bb64c2e](https://github.com/user-attachments/assets/72ba08d2-9fc3-4fb9-aa32-da2c0ba0f118)
